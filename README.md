@@ -19,3 +19,13 @@ Document.write("*");
 }
 documemt.write("\n");
 }
+
+6:- var name="The quick brown fox jumps over the lazy dog";
+document.write(name.truncate(4));
+
+10:- var name= "hey guys how are you";
+var x=name.toUpperCase();
+document.write(x);
+var name1="HELLO ALL";
+var y=name.toLowerCase();
+documet.write(y);
